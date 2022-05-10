@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Mojeed Oyedeji"
+description: "A full stack developer and PhD graduate of Systems and Control Engineering"
 
 # Build settings
 markdown: kramdown
@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Mojeed O. Oyedeji, PhD"
+resume_title:                   "Full Stack Engineer and Researcher"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "mojeed.oyedeji@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
